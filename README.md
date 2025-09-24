@@ -10,3 +10,17 @@ Este projeto foca no desenvolvimento de um modelo de aprendizado de máquina par
 O objetivo principal foi criar um modelo de classificação capaz de analisar o comportamento de uso de clientes antigos e prever qual dos novos planos seria mais adequado para eles. Para isso, utilizei um conjunto de dados histórico que continha informações sobre o uso de serviços, como chamadas, mensagens e tráfego de internet.
 
 O desafio central foi atingir uma acurácia superior a 0.75, garantindo que o modelo seja confiável o suficiente para recomendar os planos de forma precisa, otimizando a satisfação do cliente e as estratégias de negócio da Megaline.
+
+
+# Estrutura do Repositório
+Veja os dados utilizados : 
+
+![Dados Sprint 08 - arquivo I CSV]()
+
+# 🚀 Tecnologias
+📄 Bibliotecas: 
+
+⚡️ Jupyter Notebook
+
+⚡️ VsCode
+
