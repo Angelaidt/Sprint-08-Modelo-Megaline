@@ -15,7 +15,7 @@ O desafio central foi atingir uma acurácia superior a 0.75, garantindo que o mo
 # Estrutura do Repositório
 Veja os dados utilizados : 
 
-![Dados Sprint 08 - arquivo I CSV]()
+![Dados Sprint 08 - arquivo I CSV](https://github.com/Angelaidt/Sprint-08-Modelo-Megaline/blob/main/users_behavior%20(2).csv)
 
 # 🚀 Tecnologias
 📄 Bibliotecas: 
