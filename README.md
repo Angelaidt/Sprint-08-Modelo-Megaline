@@ -21,6 +21,7 @@ Veja os dados utilizados :
 📄 Bibliotecas: 
 
 Pandas 
+
 Scikit-learn
 
 ⚡️ Jupyter Notebook
