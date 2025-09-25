@@ -20,9 +20,9 @@ Veja os dados utilizados :
 # 🚀 Tecnologias
 📄 Bibliotecas: 
 
-Pandas 
+--Pandas 
 
-Scikit-learn
+--Scikit-learn
 
 ⚡️ Jupyter Notebook
 
